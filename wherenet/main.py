@@ -2,8 +2,6 @@
 
 Given one RGB image and one model point cloud, this script runs:
 background-difference segmentation -> depth estimation -> point-cloud reconstruction -> registration.
-
-python main.py --image /mnt/data/yycdata/explore/code_public/demo/m6.png --background /mnt/data/yycdata/explore/code_public/demo/m6_bg.png --model-pcd /mnt/data/yycdata/explore/code_public/demo/GB_M6X8.pcd
 """
 
 from __future__ import annotations
