@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+easydict>=1.11
+timm>=0.4.5
+tqdm>=4.66.0
+matplotlib>=3.8.0
+opencv-python>=4.9.0
+pyyaml>=6.0
+scipy>=1.11.0
+einops>=0.7.0
+termcolor>=2.4.0
+addict>=2.4.0
+Pillow>=10.0.0
