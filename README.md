@@ -138,7 +138,7 @@ Both modules assume a Linux/CUDA environment for the point-cloud and registratio
 
 ## Data and Checkpoints
 
-Large datasets, checkpoints, and generated outputs are not committed to this repository. Download the released assets in https://drive.google.com/drive/folders/1Zh9_v7EnpB6JnfE0FZbV6Et99Axacmhy?usp=drive_link and place them under each module as documented in the module README files.
+Large datasets, checkpoints, and generated outputs are not committed to this repository. Download the released assets and place them under each module as documented in the module README files.
 
 Common ignored paths include:
 
